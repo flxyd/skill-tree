@@ -57,7 +57,7 @@
 2. back-end
 
 ### 工具
-1. Git
+1. Git [:link:](https://github.com/flxyd/skill-tree/tree/master/git)
 
 ### 目录树图
 ![技术栈](https://ws3.sinaimg.cn/large/006tNbRwgy1fv28uo4tlqj31kv1ly79r.jpg)
