@@ -60,4 +60,4 @@
 1. Git
 
 ### 目录树图
-![技术栈](https://ws1.sinaimg.cn/large/006tNbRwgy1fv28nxyli2j31kw1lqaqn.jpg)
+![技术栈](https://ws3.sinaimg.cn/large/006tNbRwgy1fv28uo4tlqj31kv1ly79r.jpg)
