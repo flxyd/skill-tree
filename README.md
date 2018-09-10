@@ -1,7 +1,7 @@
 ## 我的技能树-学习笔记
 
-### 设计模式
-1. 面向对象设计原则 [:link:](https://github.com/flxyd/skill-tree/tree/master/designPattern)
+### 设计模式 [:link:](https://github.com/flxyd/skill-tree/blob/master/designPattern/README.md)
+1. 面向对象设计原则 [:link:](https://github.com/flxyd/skill-tree/blob/master/designPattern/DesignPrinciples.md)
 2. 创建型模式-Creational Pattern [:link:](https://github.com/flxyd/skill-tree/blob/master/designPattern/CreationalPattern.md)
 3. 结构型模式-Structural Pattern
 4. 行为型模式-Behavioral Pattern
