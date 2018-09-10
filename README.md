@@ -2,12 +2,12 @@
 
 ### 设计模式
 1. 面向对象设计原则 [:link:](https://github.com/flxyd/skill-tree/tree/master/designPattern)
-2. 创建型模式-Creational Pattern
+2. 创建型模式-Creational Pattern [:link:]
 3. 结构型模式-Structural Pattern
 4. 行为型模式-Behavioral Pattern
 
 ### Java
-1. 并发 1
+1. 并发
 2. JVM
 3. JAVA高级特性
 4. 集合类 Collection
