@@ -21,4 +21,4 @@
    - 描述：一个软件实体应当尽可能少地与其他实体发生相互作用
    - 使用频率：★★★☆☆
 
-![WX20180910-132945@2x](https://ws2.sinaimg.cn/large/006tNbRwgy1fv4dsqa320j31kw10zdrw.jpg)
+![WX20180910-132945@2x](https://ws4.sinaimg.cn/large/006tNbRwgy1fv4e0udr8pj31bw0v5gpf.jpg)
