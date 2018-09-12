@@ -4,6 +4,8 @@
 
 1. 简单工厂模式-Simple Factory Pattern
 ![简单工厂模式-Simple Factory Pattern](https://ws3.sinaimg.cn/large/0069RVTdgy1fv6pnduqk3j31kw0fgq74.jpg)
+![](https://ws3.sinaimg.cn/large/0069RVTdgy1fv6pnduqk3j31kw0fgq74.jpg)
+![](https://ws3.sinaimg.cn/large/0069RVTdgy1fv6prk3nd3j31kw0fg7ba.jpg)
 
 2. 工厂方法模式-Factory Method Pattern
 ![工厂方法模式-Factory Method Pattern]()
