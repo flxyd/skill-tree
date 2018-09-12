@@ -9,7 +9,7 @@
 ![工厂方法模式-Factory Method Pattern](https://ws3.sinaimg.cn/large/0069RVTdgy1fv6ptjcnfvj31kw0gj795.jpg)
 
 3. 抽象工厂模式-Abstract Factory Pattern
-![抽象工厂模式-Abstract Factory Pattern](https://ws4.sinaimg.cn/large/0069RVTdgy1fv6pttua03j31kw0gxgv3.jpg)
+![抽象工厂模式-Abstract Factory Pattern](https://ws2.sinaimg.cn/large/0069RVTdgy1fv6pvuhex7j31kw0gx443.jpg)
 
 4. 单例模式-Singleton Pattern
 ![单例模式-Singleton Pattern](https://ws3.sinaimg.cn/large/0069RVTdgy1fv6ptxkw6xj31kw0o6dp7.jpg)
