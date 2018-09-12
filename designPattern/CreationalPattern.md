@@ -1,12 +1,12 @@
 # 创建型模式-Creational Pattern
 
 ## 目录
-> 1. [简单工厂模式-Simple Factory Pattern]()
-> 2. [工厂方法模式-Factory Method Pattern]()
-> 3. [抽象工厂模式-Abstract Factory Pattern]()
-> 4. [单例模式-Singleton Pattern]()
-> 5. [原型模式-Prototype Pattern]()
-> 6. [建造者模式-Builder Pattern]()
+> 1. [简单工厂模式-Simple Factory Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/CreationalPattern.md#%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F-simple-factory-pattern)
+> 2. [工厂方法模式-Factory Method Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/CreationalPattern.md#%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F-factory-method-pattern)
+> 3. [抽象工厂模式-Abstract Factory Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/CreationalPattern.md#%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F-abstract-factory-pattern)
+> 4. [单例模式-Singleton Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/CreationalPattern.md#%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F-singleton-pattern)
+> 5. [原型模式-Prototype Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/CreationalPattern.md#%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F-prototype-pattern)
+> 6. [建造者模式-Builder Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/CreationalPattern.md#%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F-builder-pattern)
 
 ---
 ## 简单工厂模式-Simple Factory Pattern
