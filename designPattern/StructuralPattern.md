@@ -1,13 +1,13 @@
 # 结构型模式-Structural Pattern
 
 ## 目录
-> 1. [适配器模式-Adapter Pattern]()
-> 2. [桥接模式-Bridge Pattern]()
-> 3. [组合模式-Composite Pattern]()
-> 4. [装饰模式-Decorator Pattern]()
-> 5. [外观模式/门面模式-Facade Pattern]()
-> 6. [享元模式-Flyweight Pattern]()
-> 7. [代理模式-Proxy Pattern]()
+> 1. [适配器模式-Adapter Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/StructuralPattern.md#%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F-adapter-pattern)
+> 2. [桥接模式-Bridge Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/StructuralPattern.md#%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F-bridge-pattern)
+> 3. [组合模式-Composite Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/StructuralPattern.md#%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F-composite-pattern)
+> 4. [装饰模式-Decorator Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/StructuralPattern.md#%E8%A3%85%E9%A5%B0%E6%A8%A1%E5%BC%8F-decorator-pattern)
+> 5. [外观模式/门面模式-Facade Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/StructuralPattern.md#%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F%E9%97%A8%E9%9D%A2%E6%A8%A1%E5%BC%8F-facade-pattern)
+> 6. [享元模式-Flyweight Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/StructuralPattern.md#%E4%BA%AB%E5%85%83%E6%A8%A1%E5%BC%8F-flyweight-pattern)
+> 7. [代理模式-Proxy Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/StructuralPattern.md#%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F-proxy-pattern)
 
 ---
 ##  适配器模式-Adapter Pattern
