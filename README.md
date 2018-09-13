@@ -4,7 +4,7 @@
 1. 面向对象设计原则 [:link:](https://github.com/flxyd/skill-tree/blob/master/designPattern/DesignPrinciples.md)
 2. 创建型模式-Creational Pattern [:link:](https://github.com/flxyd/skill-tree/blob/master/designPattern/CreationalPattern.md)
 3. 结构型模式-Structural Pattern [:link:](https://github.com/flxyd/skill-tree/blob/master/designPattern/StructuralPattern.md)
-4. 行为型模式-Behavioral Pattern
+4. 行为型模式-Behavioral Pattern [:link:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md)
 
 ### Java
 1. 并发
