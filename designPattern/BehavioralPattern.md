@@ -1,17 +1,17 @@
 # 行为型模式-Behavioral Pattern
 
 ## 目录
-> 1. [职责链模式-Chain of Responsibility Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%81%8C%E8%B4%A3%E9%93%BE%E6%A8%A1%E5%BC%8F-chain-of-responsibility-pattern)
-> 2. [命令模式-Command Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F-command-pattern)
-> 3. [解释器模式-Interpreter Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A7%A3%E9%87%8A%E5%99%A8%E6%A8%A1%E5%BC%8F-interpreter-pattern)
-> 4. [迭代器模式-Iterator Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F-iterator-pattern)
-> 5. [中介者模式-Mediator Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E4%B8%AD%E4%BB%8B%E8%80%85%E6%A8%A1%E5%BC%8F-mediator-pattern)
-> 6. [备忘录模式-Memento Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E5%A4%87%E5%BF%98%E5%BD%95%E6%A8%A1%E5%BC%8F-memento-pattern)
-> 7. [观察者模式-Observer Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F-observer-pattern)
-> 8. [状态模式-State Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E7%8A%B6%E6%80%81%E6%A8%A1%E5%BC%8F-state-pattern)
-> 9. [策略模式-Strategy Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F-strategy-pattern)
-> 10. [模板方法模式-Template Method Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F-template-method-pattern)
-> 11. [访问者模式-Visitor Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%AE%BF%E9%97%AE%E8%80%85%E6%A8%A1%E5%BC%8F-visitor-pattern)
+> 1. [职责链模式-Chain of Responsibility Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%81%8C%E8%B4%A3%E9%93%BE%E6%A8%A1%E5%BC%8F-chain-of-responsibility-pattern-top)
+> 2. [命令模式-Command Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F-command-pattern-top)
+> 3. [解释器模式-Interpreter Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A7%A3%E9%87%8A%E5%99%A8%E6%A8%A1%E5%BC%8F-interpreter-pattern-top)
+> 4. [迭代器模式-Iterator Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F-iterator-pattern-top)
+> 5. [中介者模式-Mediator Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E4%B8%AD%E4%BB%8B%E8%80%85%E6%A8%A1%E5%BC%8F-mediator-pattern-top)
+> 6. [备忘录模式-Memento Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E5%A4%87%E5%BF%98%E5%BD%95%E6%A8%A1%E5%BC%8F-memento-pattern-top)
+> 7. [观察者模式-Observer Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F-observer-pattern-top)
+> 8. [状态模式-State Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E7%8A%B6%E6%80%81%E6%A8%A1%E5%BC%8F-state-pattern-top)
+> 9. [策略模式-Strategy Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F-strategy-pattern-top)
+> 10. [模板方法模式-Template Method Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F-template-method-pattern-top)
+> 11. [访问者模式-Visitor Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%AE%BF%E9%97%AE%E8%80%85%E6%A8%A1%E5%BC%8F-visitor-pattern-top)
 
 ## 职责链模式-Chain of Responsibility Pattern [:top:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F-behavioral-pattern)
 ### 使用频率
