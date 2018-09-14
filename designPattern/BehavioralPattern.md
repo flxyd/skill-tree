@@ -13,8 +13,7 @@
 > 10. [模板方法模式-Template Method Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F-template-method-pattern)
 > 11. [访问者模式-Visitor Pattern](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%AE%BF%E9%97%AE%E8%80%85%E6%A8%A1%E5%BC%8F-visitor-pattern)
 
----
-## 职责链模式-Chain of Responsibility Pattern
+## 职责链模式-Chain of Responsibility Pattern [:top:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F-behavioral-pattern)
 ### 使用频率
 ★★☆☆☆
 ### 目标问题
@@ -46,9 +45,8 @@
 可动态指定一组对象处理请求，客户端可以动态创建职责链来处理请求
 ### Skill Tree
 
-
 ---
-## 命令模式-Command Pattern
+## 命令模式-Command Pattern [:top:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F-behavioral-pattern)
 ### 使用频率
 ★★★★☆
 ### 目标问题
@@ -78,9 +76,8 @@
 系统需要将一组操作组合在一起形成宏命令
 ### Skill Tree
 
-
 ---
-## 解释器模式-Interpreter Pattern
+## 解释器模式-Interpreter Pattern [:top:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F-behavioral-pattern)
 ### 使用频率
 ★☆☆☆☆
 ### 目标问题
@@ -108,9 +105,8 @@
 执行效率不是关键问题。
 ### Skill Tree
 
-
 ---
-## 迭代器模式-Iterator Pattern
+## 迭代器模式-Iterator Pattern [:top:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F-behavioral-pattern)
 ### 使用频率
 ★★★★★
 ### 目标问题
@@ -135,9 +131,8 @@
 为遍历不同的聚合结构提供一个统一的接口
 ### Skill Tree
 
-
 ---
-## 中介者模式-Mediator Pattern
+## 中介者模式-Mediator Pattern [:top:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F-behavioral-pattern)
 ### 使用频率
 ★★☆☆☆
 ### 目标问题
@@ -168,9 +163,8 @@
 想通过一个中间类来封装多个类中的行为，而又不想生成太多的子类
 ### Skill Tree
 
-
 ---
-## 备忘录模式-Memento Pattern
+## 备忘录模式-Memento Pattern [:top:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F-behavioral-pattern)
 ### 使用频率
 ★★☆☆☆
 ### 目标问题
@@ -193,9 +187,8 @@
 防止外界对象破坏一个对象历史状态的封装性
 ### Skill Tree
 
-
 ---
-## 观察者模式-Observer Pattern
+## 观察者模式-Observer Pattern [:top:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F-behavioral-pattern)
 ### 使用频率
 ★★★★★
 ### 目标问题
@@ -226,9 +219,8 @@
 一个对象的改变将导致一个或多个其他对象也发生改变，而并不知道具体有多少对象将发生改变，也不知道这些对象是谁
 ### Skill Tree
 
-
 ---
-## 状态模式-State Pattern
+## 状态模式-State Pattern [:top:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F-behavioral-pattern)
 ### 使用频率
 ★★★☆☆
 ### 目标问题
@@ -262,9 +254,8 @@
 当系统中某个对象存在多个状态，这些状态之间可以进行转换，而且对象在不同状态下行为不相同时可以使用状态模式
 ### Skill Tree
 
-
 ---
-## 策略模式-Strategy Pattern
+## 策略模式-Strategy Pattern [:top:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F-behavioral-pattern)
 ### 使用频率
 ★★★★☆
 ### 目标问题
@@ -294,9 +285,8 @@
 不希望客户端知道复杂的、与算法相关的数据结构
 ### Skill Tree
 
-
 ---
-## 模板方法模式-Template Method Pattern
+## 模板方法模式-Template Method Pattern [:top:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F-behavioral-pattern)
 ### 使用频率
 ★★★☆☆
 ### 目标问题
@@ -328,9 +318,8 @@
 需要通过子类来决定父类算法中某个步骤是否执行，实现子类对父类的反向控制
 ### Skill Tree
 
-
 ---
-## 访问者模式-Visitor Pattern
+## 访问者模式-Visitor Pattern [:top:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F-behavioral-pattern)
 ### 使用频率
 ★☆☆☆☆
 ### 目标问题
