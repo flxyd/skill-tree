@@ -44,6 +44,7 @@
 在不明确指定接收者的情况下，向多个对象中的一个提交一个请求
 可动态指定一组对象处理请求，客户端可以动态创建职责链来处理请求
 ### Skill Tree
+![职责链模式 Chain of Responsibility Pattern](https://ws2.sinaimg.cn/large/0069RVTdgy1fv9301kt5mj31kw0l17ik.jpg)
 
 ---
 ## 命令模式-Command Pattern [:top:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F-behavioral-pattern)
@@ -75,6 +76,7 @@
 系统需要支持命令的撤销(Undo)操作和恢复(Redo)操作
 系统需要将一组操作组合在一起形成宏命令
 ### Skill Tree
+![命令模式 Command Pattern](https://ws2.sinaimg.cn/large/0069RVTdgy1fv9308zioej31kw0ipqhj.jpg)
 
 ---
 ## 解释器模式-Interpreter Pattern [:top:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F-behavioral-pattern)
@@ -104,6 +106,7 @@
 一个语言的文法较为简单。
 执行效率不是关键问题。
 ### Skill Tree
+![解释器模式 Interpreter Pattern](https://ws2.sinaimg.cn/large/0069RVTdgy1fv930h2cpgj31kw0j2asm.jpg)
 
 ---
 ## 迭代器模式-Iterator Pattern [:top:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F-behavioral-pattern)
@@ -130,6 +133,7 @@
 需要为一个聚合对象提供多种遍历方式
 为遍历不同的聚合结构提供一个统一的接口
 ### Skill Tree
+![迭代器模式 Iterator Pattern](https://ws3.sinaimg.cn/large/0069RVTdgy1fv930ojwcdj31kw0k5wx9.jpg)
 
 ---
 ## 中介者模式-Mediator Pattern [:top:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F-behavioral-pattern)
@@ -162,6 +166,7 @@
  一个对象由于引用了其他很多对象并且直接和这些对象通信，导致难以复用该对象
 想通过一个中间类来封装多个类中的行为，而又不想生成太多的子类
 ### Skill Tree
+![中介者模式 Mediator Pattern](https://ws3.sinaimg.cn/large/0069RVTdgy1fv930x90vzj31kw0iz4kf.jpg)
 
 ---
 ## 备忘录模式-Memento Pattern [:top:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F-behavioral-pattern)
@@ -186,6 +191,7 @@
 保存一个对象在某一个时刻的全部状态或部分状态
 防止外界对象破坏一个对象历史状态的封装性
 ### Skill Tree
+![备忘录模式 Memento Pattern](https://ws3.sinaimg.cn/large/0069RVTdgy1fv9312vmaij31kw0lfaja.jpg)
 
 ---
 ## 观察者模式-Observer Pattern [:top:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F-behavioral-pattern)
@@ -218,6 +224,7 @@
 一个抽象模型有两个方面，其中一个方面依赖于另一个方面，将这两个方面封装在独立的对象中使它们可以各自独立地改变和复用
 一个对象的改变将导致一个或多个其他对象也发生改变，而并不知道具体有多少对象将发生改变，也不知道这些对象是谁
 ### Skill Tree
+![观察者模式 Observer Pattern](https://ws2.sinaimg.cn/large/0069RVTdgy1fv9319o21tj31kw0s77wh.jpg)
 
 ---
 ## 状态模式-State Pattern [:top:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F-behavioral-pattern)
@@ -253,6 +260,7 @@
 ### 适用场景
 当系统中某个对象存在多个状态，这些状态之间可以进行转换，而且对象在不同状态下行为不相同时可以使用状态模式
 ### Skill Tree
+![状态模式 State Pattern](https://ws3.sinaimg.cn/large/0069RVTdgy1fv931j4agvj31kw0ly7n4.jpg)
 
 ---
 ## 策略模式-Strategy Pattern [:top:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F-behavioral-pattern)
@@ -284,6 +292,7 @@
 动态地在几种算法中选择一种
 不希望客户端知道复杂的、与算法相关的数据结构
 ### Skill Tree
+![策略模式 Strategy Pattern](https://ws3.sinaimg.cn/large/0069RVTdgy1fv931ojsaoj31kw0m9wt7.jpg)
 
 ---
 ## 模板方法模式-Template Method Pattern [:top:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F-behavioral-pattern)
@@ -317,6 +326,7 @@
 各子类中公共的行为应被提取出来并集中到一个公共父类中以避免代码重复
 需要通过子类来决定父类算法中某个步骤是否执行，实现子类对父类的反向控制
 ### Skill Tree
+![模板方法模式 Template Method Pattern](https://ws2.sinaimg.cn/large/0069RVTdgy1fv931twe09j31kw0quh36.jpg)
 
 ---
 ## 访问者模式-Visitor Pattern [:top:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md#%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F-behavioral-pattern)
@@ -344,3 +354,5 @@
 一个对象结构包含多个类型的对象，希望对这些对象实施一些依赖其具体类型的操作
 需要对一个对象结构中的对象进行很多不同的并且不相关的操作
 对象结构中对象对应的类很少改变，但经常需要在此对象结构上定义新的操作
+### Skill Tree
+![访问者模式 Visitor Pattern](https://ws1.sinaimg.cn/large/0069RVTdgy1fv9326upr6j31kw0wdwu0.jpg)
