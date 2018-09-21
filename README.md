@@ -31,7 +31,7 @@
 6. 分布式文件系统
 
 ### 服务器
-1. Nginx
+1. Nginx 
 2. Apache
 3. Tomcat
 4. JBOSS
