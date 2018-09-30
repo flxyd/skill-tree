@@ -7,7 +7,7 @@
 4. 行为型模式-Behavioral Pattern [:link:](https://github.com/flxyd/skill-tree/blob/master/designPattern/BehavioralPattern.md)
 
 ### Java
-1. 并发
+1. 并发 [:link:](https://github.com/flxyd/skill-tree/tree/master/java/concurrent)
 2. JVM
 3. JAVA高级特性
 4. 集合类 Collection
