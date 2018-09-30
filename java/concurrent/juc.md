@@ -12,6 +12,9 @@
 * AtomicReferenceArray
 * AtomicReferenceFieldUpdater
 * AtomicMarkableReference
+### Skill Tree
+![atomic](https://ws1.sinaimg.cn/large/006tNc79gy1fvrnhbd52rj314e0s2tcd.jpg)
+
 ## Fork/Join框架
 Java7提供了的一个用于并行执行任务的框架， 是一个把大任务分割成若干个小任务，最终汇总每个小任务结果后得到大任务结果的框架
 ### 工作窃取算法
@@ -22,6 +25,9 @@ Java7提供了的一个用于并行执行任务的框架， 是一个把大任�
     * 放在一个双端队列里，线程从 两端拿
 * 合并结果
     * 执行完的结果都统一放在一个结果队列里，由一个线程去消费结果
+### Skill Tree
+![forkjoin](https://ws2.sinaimg.cn/large/006tNc79gy1fvrnikvp8qj31kw0bqwie.jpg)
+
 ## collections
 ### Queue
 * BlockingQueue
@@ -102,6 +108,10 @@ Java7提供了的一个用于并行执行任务的框架， 是一个把大任�
     * 主要特点
         * 支持排序
         * 支持搜索目标返回最接近匹配项的导航方法
+### Skill Tree
+![collections](https://ws3.sinaimg.cn/large/006tNc79gy1fvrnkyzpsaj31kw0bewkb.jpg)
+![ConcurrentHashMap](https://ws3.sinaimg.cn/large/006tNc79gy1fvrnlbj0htj31kw0ta1kx.jpg)
+
 ## locks
 ### Lock
 * 关键实现
@@ -142,6 +152,9 @@ ReentrantReadWriteLock 可重入的读写锁
 * 用来阻塞（park）或唤醒（unpark）一个线程
 ### Condition
 * 定义了等待/通知 两种类型的方法
+### Skill Tree
+![locks](https://ws3.sinaimg.cn/large/006tNc79gy1fvrnnqnka3j31kw0g41cy.jpg)
+
 ## tools
 ### CountDownLatch
 * 允许一个或多个线程等待其他线程完成操作
@@ -186,6 +199,9 @@ ReentrantReadWriteLock 可重入的读写锁
     * 实现单个线程单例以及单个线程上下文信息存储，比如交易id等
     * 实现线程安全，非线程安全的对象使用ThreadLocal之后就会变得线程安全，因为每个线程都会有一个对应的实例
     * 承载一些线程相关的数据，避免在方法中来回传递参数
+### Skill Tree
+![tools](https://ws2.sinaimg.cn/large/006tNc79gy1fvrnp1tltij31kw0lkndh.jpg)
+
 ## 线程池
 ### 解决问题
 * 线程生命周期开销大
@@ -210,7 +226,10 @@ ReentrantReadWriteLock 可重入的读写锁
 * 任务接口
     * 为所有任务提供统一的接口，以便工作线程处理。任务接口主要规定了任务的入口，任务执行完后的收尾工作，任务的执行状态等
 ### 实现细节
-* ThreadPoolExecutor
+* 见ThreadPoolExecutor
+### Skill Tree
+![threadpool](https://ws1.sinaimg.cn/large/006tNc79gy1fvrnpu54bzj31kw0h6grr.jpg)
+
 ## executor
 ### 介绍
 * Executor是一种异步任务执行框架，它基于生产者消费者模式，解耦任务的提交和执行过程，提供了多种不同类型的策略来执行任务
@@ -313,5 +332,6 @@ ReentrantReadWriteLock 可重入的读写锁
         * 可以从FutureTask中通过get取到任务的返回结果，也可以取消任务执行
 ### CompletionService
 * CompletionService实际上可以看做是Executor和BlockingQueue的结合体，用来管理多个线程返回的Future结果
-
-### RejectedExecutorHandler
+### Skill Tree
+![executor](https://ws3.sinaimg.cn/large/006tNc79gy1fvrntznllcj31kw0m8qa6.jpg)
+![ThreadPoolExecutor](https://ws2.sinaimg.cn/large/006tNc79gy1fvrnu5gx23j31kw0fe4ox.jpg)
