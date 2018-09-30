@@ -48,4 +48,4 @@
   * 反之是不公平的
 * 公平锁往往没有非公平锁效率高，但是公平锁能减少“饥饿”发生
 ## Skill Tree
-![lock](https://ws1.sinaimg.cn/large/006tNc79gy1fvrm4akpfxj31kw0puka6.jpg)
+![lock](https://ws3.sinaimg.cn/large/006tNc79gy1fvro99zuyzj31e21t84h8.jpg)
