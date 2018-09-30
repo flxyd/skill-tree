@@ -44,4 +44,4 @@
 ### 自旋锁与自适应自旋
 略
 ## Skill Tree
-![native](https://ws4.sinaimg.cn/large/006tNc79gy1fvrlu89jb2j31kw0ru0zv.jpg)
+![native](https://ws4.sinaimg.cn/large/006tNc79gy1fvrocloj48j31kw1c5nbx.jpg)
