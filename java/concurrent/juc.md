@@ -26,7 +26,7 @@ Java7提供了的一个用于并行执行任务的框架， 是一个把大任�
 * 合并结果
     * 执行完的结果都统一放在一个结果队列里，由一个线程去消费结果
 ### Skill Tree
-![forkjoin](https://ws2.sinaimg.cn/large/006tNc79gy1fvrnikvp8qj31kw0bqwie.jpg)
+![forkjoin](https://ws1.sinaimg.cn/large/006tNc79gy1fvrnz68jpuj31ec0kawi5.jpg)
 
 ## collections
 ### Queue
@@ -109,8 +109,8 @@ Java7提供了的一个用于并行执行任务的框架， 是一个把大任�
         * 支持排序
         * 支持搜索目标返回最接近匹配项的导航方法
 ### Skill Tree
-![collections](https://ws3.sinaimg.cn/large/006tNc79gy1fvrnkyzpsaj31kw0bewkb.jpg)
-![ConcurrentHashMap](https://ws3.sinaimg.cn/large/006tNc79gy1fvrnlbj0htj31kw0ta1kx.jpg)
+![collections](https://ws4.sinaimg.cn/large/006tNc79gy1fvro1tsyrfj31iq0rcq8n.jpg)
+![ConcurrentHashMap](https://ws2.sinaimg.cn/large/006tNc79gy1fvro1yvhzwj31kw22m1kx.jpg)
 
 ## locks
 ### Lock
@@ -153,7 +153,7 @@ ReentrantReadWriteLock 可重入的读写锁
 ### Condition
 * 定义了等待/通知 两种类型的方法
 ### Skill Tree
-![locks](https://ws3.sinaimg.cn/large/006tNc79gy1fvrnnqnka3j31kw0g41cy.jpg)
+![locks](https://ws4.sinaimg.cn/large/006tNc79gy1fvro3qxop5j31kw1fqtss.jpg)
 
 ## tools
 ### CountDownLatch
@@ -200,7 +200,7 @@ ReentrantReadWriteLock 可重入的读写锁
     * 实现线程安全，非线程安全的对象使用ThreadLocal之后就会变得线程安全，因为每个线程都会有一个对应的实例
     * 承载一些线程相关的数据，避免在方法中来回传递参数
 ### Skill Tree
-![tools](https://ws2.sinaimg.cn/large/006tNc79gy1fvrnp1tltij31kw0lkndh.jpg)
+![tools](https://ws4.sinaimg.cn/large/006tNc79gy1fvro4t8qa2j31hu1iewur.jpg)
 
 ## 线程池
 ### 解决问题
@@ -228,7 +228,7 @@ ReentrantReadWriteLock 可重入的读写锁
 ### 实现细节
 * 见ThreadPoolExecutor
 ### Skill Tree
-![threadpool](https://ws1.sinaimg.cn/large/006tNc79gy1fvrnpu54bzj31kw0h6grr.jpg)
+![tp](https://ws4.sinaimg.cn/large/006tNc79gy1fvro5puz3ej319g0ycdmj.jpg)
 
 ## executor
 ### 介绍
@@ -334,6 +334,4 @@ ReentrantReadWriteLock 可重入的读写锁
 * CompletionService实际上可以看做是Executor和BlockingQueue的结合体，用来管理多个线程返回的Future结果
 ### Skill Tree
 ![executor](https://ws3.sinaimg.cn/large/006tNc79gy1fvrntznllcj31kw0m8qa6.jpg)
-![ThreadPoolExecutor](https://ws2.sinaimg.cn/large/006tNc79gy1fvrnu5gx23j31kw0fe4ox.jpg)
-
 ![ThreadPoolExecutor](https://ws2.sinaimg.cn/large/006tNc79gy1fvrnwv2idzj31kw19xtz9.jpg)
