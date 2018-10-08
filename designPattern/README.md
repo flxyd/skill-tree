@@ -1,6 +1,3 @@
-> 设计模式相关知识主要梳理于[史上最全设计模式导学目录（完整版）](https://blog.csdn.net/lovelion/article/details/17517213)。我只是进行了梳理吸收和搬运。
-
----
 ## Skill Tree
 ![pic](https://ws3.sinaimg.cn/large/006tNbRwgy1fv4fhbow12j31kw147wp4.jpg)
 
