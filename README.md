@@ -12,7 +12,7 @@
 3. JAVA高级特性
 4. 集合类 Collection
 5. IO/NIO
-6. JDK 
+6. JDK
 
 ### Spring
 1. Spring Framework
