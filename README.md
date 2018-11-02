@@ -9,7 +9,7 @@
 ### Java
 1. 并发 [:link:](https://github.com/flxyd/skill-tree/tree/master/java/concurrent)
 2. JVM
-3. JAVA高级特性
+3. JAVA高级特性 
 4. 集合类 Collection
 5. IO/NIO
 6. JDK
