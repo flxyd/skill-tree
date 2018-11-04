@@ -31,7 +31,10 @@
         * 把工作内存的变量值传送到主内存中
     * write（写入）
         * 作用于主内存
+
         * 把store得到的变量值放入到主内存的变量中
+
+![内存模型](https://ws3.sinaimg.cn/large/006tNbRwly1fww9rjn7l7j31kw1mc7m4.jpg)
 
 ## volatile
 
@@ -47,6 +50,10 @@
     * 1、当执行到volatile变量的读写操作时，在其前面的操作已经全部进行，且结果已经对后面的操作可见，在其后面的操作肯定还没有进行
     * 2、在进行指令优化时，不能将在对volatile变量访问的语句放在其后面执行，也不能把volatile变量后面的语句放到其前面执行
 
+![volatile](https://ws4.sinaimg.cn/large/006tNbRwly1fww9scb4aaj31jk0lw79b.jpg)
+
+
+
 ## 内存模型的有序性
 
 * 在本线程内观察，所有操作都是有序的
@@ -55,6 +62,8 @@
 * 在一个线程中观察另一个线程，所有操作都是无序的
 	* 指令重排序
 	* 工作内存与主内存同步延时
+
+![内存模型的有序性](https://ws3.sinaimg.cn/large/006tNbRwly1fww9sptclhj31ji0f20va.jpg)
 
 ## 先行发生（happens-before）
 
@@ -83,6 +92,8 @@
     * 线程切换廉价，支持大规模线程数量
     * 可以使用内核提供的线程调度功能及处理器映射
 
+![线程实现](https://ws1.sinaimg.cn/large/006tNbRwly1fww9svum6tj31kw0tw46c.jpg)
+
 ## 线程状态
 
 ### 5种状态
@@ -99,5 +110,4 @@
 * 结束 Terminated
     * 已终止
 
-### 状态转换图
-* 见下图
+![线程状态](https://ws1.sinaimg.cn/large/006tNbRwly1fww9ud34znj31kw0w5k0h.jpg)
